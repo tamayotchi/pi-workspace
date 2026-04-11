@@ -4,7 +4,7 @@
   "defaultModel": "moonshotai/kimi-k2.5",
   "defaultThinkingLevel": "high",
   "packages": [
-    "/home/tamayotchi/pi-workspace",
+    "~/pi-workspace",
     "git:github.com/qmx/pi-plan-mode"
   ],
   "images": {
