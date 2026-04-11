@@ -1,0 +1,17 @@
+{
+  "lastChangelogVersion": "0.66.1",
+  "defaultProvider": "github-copilot",
+  "defaultModel": "gpt-5.4",
+  "defaultThinkingLevel": "xhigh",
+  "packages": [
+    "/home/tamayotchi/pi-workspace"
+  ],
+  "images": {
+    "blockImages": false
+  },
+  "editorPaddingX": 0,
+  "autocompleteMaxVisible": 7,
+  "steeringMode": "all",
+  "transport": "sse",
+  "theme": "workspace-dark"
+}
