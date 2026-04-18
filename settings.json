@@ -1,11 +1,13 @@
 {
   "lastChangelogVersion": "0.66.1",
-  "defaultProvider": "openrouter",
-  "defaultModel": "moonshotai/kimi-k2.5",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.4",
   "defaultThinkingLevel": "high",
   "packages": [
     "~/pi-workspace",
-    "git:github.com/qmx/pi-plan-mode"
+    "npm:@plannotator/pi-extension",
+    "npm:pi-web-access",
+    "npm:pi-interactive-shell"
   ],
   "images": {
     "blockImages": false
